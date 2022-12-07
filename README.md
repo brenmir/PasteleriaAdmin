@@ -1,7 +1,7 @@
 # 🚀PasteleriaAdmin
 <b>Caso Pastelería: </b><br>
 Primera práctica HTML de la misión FrontEnd de Launch X LATAM<br>
-🔗<a href="https://example.com">Website</a>
+🔗<a href="https://brenmir.github.io/PasteleriaAdmin/">Website</a>
 #
 <b>Descripción: </b><br>
 <li> El pastelero necesita tener la información de la cantidad de sabores que le quedan para hacer los pasteles.</li>
